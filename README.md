@@ -1,4 +1,4 @@
-<img src="https://github.com/parhamkmp/Remove-photo-background/blob/main/Img.png" width="100%" height="500px"  />
+<img src="https://github.com/parhamkmp/Remove-photo-background/blob/main/Img.png" width="500px" height="500px"  />
 
 <h1>
 Very easy to remove background images without any restrictions with Python.<br/>
